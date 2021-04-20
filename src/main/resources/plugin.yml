@@ -1,0 +1,5 @@
+name: NoBoom
+version: ${project.version}
+main: dev.dejay.noboom.Noboom
+api-version: 1.16
+authors: [ DeJayDev ]
